@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://localhost:3000",
+    "name": "home",
+    "depth": 0,
+    "title": "Auto Tool: Điền Form Khảo sát Google Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/",
+    "name": "home",
+    "depth": 1,
+    "title": "Auto Tool: Điền Form Khảo sát Google Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/service",
+    "name": "service",
+    "depth": 2,
+    "title": "Giới thiệu các dịch vụ điền form tự động FillForm"
+  },
+  {
+    "url": "http://localhost:3000/dien-form-theo-ti-le",
+    "name": "dien-form-theo-ti-le",
+    "depth": 3,
+    "title": "Điền Form Google tự động theo tỉ lệ đáp án"
+  },
+  {
+    "url": "http://localhost:3000/dien-form-theo-data-co-truoc",
+    "name": "dien-form-theo-data-co-truoc",
+    "depth": 3,
+    "title": "Điền form theo Data có trước - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/dien-form-chuan-mo-hinh-nghien-cuu",
+    "name": "dien-form-chuan-mo-hinh-nghien-cuu",
+    "depth": 3,
+    "title": "Điền form chuẩn mô hình nghiên cứu - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/dien-form-bang-ai-agent",
+    "name": "dien-form-bang-ai-agent",
+    "depth": 3,
+    "title": "Điền form bằng AI AGENT - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/dien-form-rai-random-nhu-nguoi-that",
+    "name": "dien-form-rai-random-nhu-nguoi-that",
+    "depth": 3,
+    "title": "Điền form rải random như người thật - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/thue-fillform-thao-tac-ho",
+    "name": "thue-fillform-thao-tac-ho",
+    "depth": 3,
+    "title": "Thuê fillform thao tác hộ - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/gioi-thieu-ban-be-affiliate-fillform",
+    "name": "gioi-thieu-ban-be-affiliate-fillform",
+    "depth": 3,
+    "title": "Giới thiệu bạn bè - FillForm Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/contact",
+    "name": "contact",
+    "depth": 3,
+    "title": "Contact - Điền Form Tự Động"
+  },
+  {
+    "url": "http://localhost:3000/login",
+    "name": "login",
+    "depth": 3,
+    "title": "Auto Tool: Điền Form Khảo sát Google Tự Động"
+  }
+]
